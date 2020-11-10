@@ -67,18 +67,7 @@ PLAN:
 
 - at the very end, return the number of islands in the given 2D array 
 
-
-
-
-
-
-
-
-
 """
-
-
-
 
 
 from collections import deque
